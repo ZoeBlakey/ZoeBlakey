@@ -5,7 +5,7 @@
 
 I am a currently studying Cyber Security, working towards my NCFE Level 3 Diploma in Cyber Security developing my knowledge of cybersecurity principles, threat identification, vulnerabilities and security practices. I have an unwavering interest in technology and I am extremely passionate about working in this industry due to having an analytical brain that enjoys technical problem-solving, understanding how systems work and exploring the ways that technology can be secured.
 
-My journey learning about the different roles in the technology industry has lead me to find my passion, which is cyber security. I am always looking to expand my knowledge in this area, which is why after achieving my NCFE I will be further enhancing my personal development by studying for the CompTIA Security+ exam.
+My journey learning about the different roles in the technology industry has lead me to find my passion, which is cyber security. I am always looking to expand my knowledge in this area, which is why after achieving my NCFE I will be further enhancing my professional development by studying for the CompTIA Security+ exam.
 
 
 ## Skills Learned
@@ -32,16 +32,50 @@ My journey learning about the different roles in the technology industry has lea
 
 ## Technical Skills
 
-Linux	
+ Linux	
+ 
 Learning Linux fundamentals
 
-Python	    
+Python	 
+
 Object-oriented programming exercises
 
-TryHackMe   Practical cybersecurity learning and rooms
+TryHackMe 
 
-Git	        Version control and GitHub portfolio development
+Practical cybersecurity learning and rooms
 
-GitHub    	Project management and showcasing technical work
+ Git	
+ 
+Version control and GitHub portfolio development
 
-HTML/CSS  	Previous Web Development project
+GitHub  
+
+Project management and showcasing technical work
+
+HTML/CSS  	
+
+Previous Web Development project
+
+
+
+## Skills Under Professional Development
+
+Linux command-line proficiency
+
+
+Networking and network protocols
+
+
+Vulnerability analysis
+
+
+Penetration testing methodologies 
+
+
+Security tools and techniques
+
+
+Python scripting proficiency
+
+
+Practical cyber security challenges through TryHackMe
